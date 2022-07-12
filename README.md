@@ -29,6 +29,6 @@ The main purpose of this repository is to show a project setup and workflow for 
 Add Typescript to project `npm`.
 ```
 npm install -D typescript
-```                                            |
+```                                            
 
-Made with 💜 by Thiago Lourenço [Check out my LinkedIn](https://www.linkedin.com/in/thiiagolourenco)
+- Made with 💜 by Thiago Lourenço [Check out my LinkedIn](https://www.linkedin.com/in/thiiagolourenco)
